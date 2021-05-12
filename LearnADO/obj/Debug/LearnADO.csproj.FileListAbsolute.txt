@@ -1,0 +1,10 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\bin\Debug\LearnADO.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\bin\Debug\LearnADO.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\bin\Debug\LearnADO.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.Form1.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.Properties.Resources.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.csproj.GenerateResource.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LearnADO\obj\Debug\LearnADO.pdb

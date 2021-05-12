@@ -1,0 +1,17 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\UnitTest.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\UnitTest.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\HelloWorld.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\HelloWorld.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\HelloWorld.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\obj\Debug\UnitTest.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\UnitTest\obj\Debug\UnitTest.pdb

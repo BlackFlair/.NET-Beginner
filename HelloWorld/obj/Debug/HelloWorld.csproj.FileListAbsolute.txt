@@ -1,0 +1,10 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\bin\Debug\HelloWorld.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\bin\Debug\HelloWorld.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\bin\Debug\HelloWorld.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\obj\Debug\HelloWorld.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\obj\Debug\HelloWorld.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\bin\Debug\Libs.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\bin\Debug\Libs.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\HelloWorld\obj\Debug\HelloWorld.csproj.CopyComplete

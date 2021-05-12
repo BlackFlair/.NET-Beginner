@@ -1,0 +1,10 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\bin\Debug\Login.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\bin\Debug\Login.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\bin\Debug\Login.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.Form1.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.Properties.Resources.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.csproj.GenerateResource.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Login\obj\Debug\Login.pdb

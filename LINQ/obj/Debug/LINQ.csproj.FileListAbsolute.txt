@@ -1,0 +1,7 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\bin\Debug\LINQ.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\bin\Debug\LINQ.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\bin\Debug\LINQ.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\obj\Debug\LINQ.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\LINQ\obj\Debug\LINQ.pdb

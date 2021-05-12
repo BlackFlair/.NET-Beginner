@@ -1,0 +1,5 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Libs\bin\Debug\Libs.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Libs\bin\Debug\Libs.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Libs\obj\Debug\Libs.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Libs\obj\Debug\Libs.dll
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\Libs\obj\Debug\Libs.pdb

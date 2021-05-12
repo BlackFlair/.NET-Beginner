@@ -1,0 +1,10 @@
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\bin\Debug\AsyncTask.exe.config
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\bin\Debug\AsyncTask.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\bin\Debug\AsyncTask.pdb
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.csprojAssemblyReference.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.Form1.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.Properties.Resources.resources
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.csproj.GenerateResource.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.csproj.CoreCompileInputs.cache
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.exe
+W:\__WORK__\NewWave Technologies (India)\Training\Code\Day1\AsyncTask\obj\Debug\AsyncTask.pdb
